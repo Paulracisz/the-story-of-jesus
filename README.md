@@ -1,6 +1,6 @@
-# My React Portfolio Website
+# The Story of Jesus
 
-Welcome to my portfolio website, built using React! This website is designed to showcase my skills and experience as a developer, and provide a glimpse into some of the projects I've worked on.
+Welcome to The Story of Jesus, a mock website of a fictional broadway performance of the story of Jesus Christ. This website is meant to showcase my skills as a front-end web developer, and give you an idea of my approach to UI and UX design for a website like this one.
 ## Table of Contents
 
 - [Features](#Features)
@@ -24,11 +24,12 @@ This website features a clean and modern design, with a focus on showcasing my s
 This website is built using the following technologies:
 
 - React
-- React Router
+- TypeScript
 - HTML
 - CSS
 - JavaScript
 - Green Sock
+- Vite
 
 ## Getting Started
 
@@ -36,8 +37,8 @@ To get started with this project, simply clone this repository to your local mac
 
 ```bash
 
-git clone https://github.com/your-username/react-portfolio.git
-cd react-portfolio
+git clone https://github.com/your-username/the-story-of-jesus.git
+cd the-story-of-jesus
 npm install
 ```
 
@@ -47,10 +48,10 @@ Once you have installed the dependencies, you can run the website locally by run
 
 ```sql
 
-npm start
+npm run dev
 ```
 
-This will launch the website in your default browser at http://localhost:3000.
+This will launch the website in your default browser at http://localhost:5173.
 
 To build the website for production, run npm run build. This will create a build folder with the optimized production build.
 
@@ -63,4 +64,4 @@ npm run build
 If you find any bugs or issues with this website, or if you have any suggestions for improvement, please feel free to open an issue or submit a pull request. All contributions are welcome!
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Paulracisz/react-portfolio/blob/master/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Paulracisz/the-story-of-jesus/blob/master/LICENSE) file for more information.
