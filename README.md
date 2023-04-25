@@ -44,7 +44,7 @@ npm install
 
 ## Usage
 
-Once you have installed the dependencies, you can run the website locally by running npm start:
+Once you have installed the dependencies, you can run the website locally by running npm run dev:
 
 ```sql
 
