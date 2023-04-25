@@ -14,10 +14,10 @@ Welcome to The Story of Jesus, a mock website of a fictional broadway performanc
 
 This website features a clean and modern design, with a focus on showcasing my skills and experience. Some of the key features of this website include:
 
-- A home section with an introduction to who I am and what I do
-- A projects section with links to some of my past projects
-- A skills section with a breakdown of my technical skills and expertise
-- A contact section with a form to get in touch with me
+- A home section with an introduction to what the play is about.
+- A story section that showcases each act of the play.
+- An about section that gives information on the tour locations.
+- A buy tickets portal.
 
 ## Technologies Used
 
