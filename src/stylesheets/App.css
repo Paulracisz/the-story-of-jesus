@@ -1,0 +1,28 @@
+/* Elements */
+
+body {
+  background-color: rgb(2, 1, 12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+/* Classes */
+
+
+/* IDs */
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
