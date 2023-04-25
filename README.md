@@ -64,4 +64,4 @@ npm run build
 If you find any bugs or issues with this website, or if you have any suggestions for improvement, please feel free to open an issue or submit a pull request. All contributions are welcome!
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Paulracisz/the-story-of-jesus/blob/master/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Paulracisz/the-story-of-jesus/master/LICENSE) file for more information.
